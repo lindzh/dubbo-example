@@ -7,7 +7,7 @@ public class Abcd {
 	private String c;
 	private String d;
 
-	private String haha;
+	private String haha1;
 
 	public int getA() {
 		return a;
@@ -42,10 +42,10 @@ public class Abcd {
 	}
 
 	public String getHaha() {
-		return haha;
+		return haha1;
 	}
 
 	public void setHaha(String haha) {
-		this.haha = haha;
+		this.haha1 = haha;
 	}
 }
