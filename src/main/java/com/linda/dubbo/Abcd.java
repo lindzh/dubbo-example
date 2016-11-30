@@ -7,6 +7,8 @@ public class Abcd {
 	private String c;
 	private String d;
 
+	private String haha;
+
 	public int getA() {
 		return a;
 	}
@@ -39,4 +41,11 @@ public class Abcd {
 		this.d = d;
 	}
 
+	public String getHaha() {
+		return haha;
+	}
+
+	public void setHaha(String haha) {
+		this.haha = haha;
+	}
 }
